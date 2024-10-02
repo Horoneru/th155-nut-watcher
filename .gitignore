@@ -1,0 +1,6 @@
+node_modules
+*.exe
+*.nut
+nut-watcher
+# This is special and bundled, do not ignore
+!sq.exe
